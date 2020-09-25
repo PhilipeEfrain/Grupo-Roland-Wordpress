@@ -1,0 +1,27 @@
+.ruamaisegura {
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+    background-image: url('assets/images/capa3.jpg');
+}
+
+.imagemcoluna {
+    display: flex;
+    min-width: 250px;
+    height: 400px;
+    background-size: cover;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.textodentroimg {
+    opacity: 0.7;
+    background-color: #ffffff;
+    padding: 10px 20px;
+}
+
+.app {
+    padding-top: 25px;
+    background-color: #57abdd !important;
+    padding-bottom: 25px;
+}
